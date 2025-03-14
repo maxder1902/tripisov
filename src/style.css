@@ -1,0 +1,74 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*Esto es para customizar mi paleta de colores*/
+@theme {
+  --color-regal-blue: #243c5a;
+  --color-amarillo-tripisov: #e0cb00;
+  --color-verde-tripisov: #009e3d;
+  --color-amarillo2-tripisov: #96af30;
+  --color-azul-tripisov: #0caca0;
+}
+
+a {
+  @apply text-green-900;
+}
+
+@layer utilities {
+  .bg-regal-blue {
+    background-color: var(--color-regal-blue);
+  }
+  .bg-amarillo-tripisov {
+    background-color: var(--color-amarillo-tripisov);
+  }
+  .bg-amarillo2-tripisov {
+    background-color: var(--color-amarillo2-tripisov);
+  }
+  .bg-verde-tripisov {
+    background-color: var(--color-verde-tripisov);
+  }
+  .bg-azul-tripisov {
+    background-color: var(--color-azul-tripisov);
+  }
+  
+}
+
+body {
+  background-color: black;
+}
+
+.navbar{
+  background-color: var(--color-amarillo-tripisov);
+  display: flex;
+  justify-content: space-between; /* Espacia los elementos */
+  align-items: center; /* Alinea verticalmente los elementos */
+  padding: 0 1rem; /* Opcional: Añade un poco de espacio horizontal */
+  @apply p-8;
+}
+
+.menu-container {
+  display: flex;
+  @apply text-xl;
+}
+
+.menu-container p {
+  @apply px-4;
+}
+
+.logo-container {
+  @apply text-3xl;
+}
+
+.link {
+  color: black; /* Texto negro por defecto */
+  text-decoration: none; /* Quitar subrayado */
+  transition: color 0.3s ease; /* Transición suave */
+}
+
+/* Hover en los enlaces */
+.link:hover {
+  color: #00b300; /* Verde en hover (puedes ajustar el tono) */
+}
