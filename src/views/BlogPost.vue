@@ -26,21 +26,21 @@ const postsDB = [
     title: "Cómo proteger tu negocio de ciberataques",
     content: "Lee el artículo completo sobre ciberseguridad...",
     image: "/src/assets/tripisov_logo.png",
-    articleUrl: "/public/articles/article1.html"
+    articleUrl: "/articles/article1.html"
   },
   {
     id: 2,
     title: "Tendencias en desarrollo web para 2025",
     content: "Descubre las tecnologías más innovadoras...",
     image: "/src/assets/tripisov_logo.png",
-    articleUrl: "/public/articles/article2.html"
+    articleUrl: "/articles/article2.html"
   },
   {
     id: 3,
     title: "Diseño gráfico: La clave para destacar en el mercado",
     content: "Exploramos la importancia del branding...",
     image: "/src/assets/tripisov_logo.png",
-    articleUrl: "/public/articles/article3.html"
+    articleUrl: "/articles/article3.html"
   }
 ];
 
