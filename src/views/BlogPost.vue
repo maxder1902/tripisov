@@ -2,8 +2,6 @@
   <div class="min-h-screen text-white p-8">
     <h1 class="text-4xl font-bold">📖 {{ post?.title || "Cargando..." }}</h1>
 
-    <img v-if="post?.image" :src="post.image" alt="Imagen del post" class="w-full max-w-3xl mt-4 rounded-lg" />
-
     <p v-if="post?.content" class="text-lg mt-4">{{ post.content }}</p>
 
     <!-- Mostrar el artículo HTML en un iframe si existe -->

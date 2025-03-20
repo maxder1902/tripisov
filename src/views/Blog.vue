@@ -12,7 +12,6 @@
           class="bg-green-800 rounded-lg shadow-lg p-4 cursor-pointer hover:scale-105 transition-transform"
           @click="verPost(post.id)"
         >
-          <img :src="post.image" alt="Imagen del post" class="w-full h-40 object-cover rounded">
           <h3 class="text-2xl font-semibold mt-4">{{ post.title }}</h3>
           <p class="mt-2 text-gray-300">{{ post.description }}</p>
           <p class="mt-4 text-red-400">Leer más...</p>
