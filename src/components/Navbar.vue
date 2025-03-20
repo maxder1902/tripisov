@@ -3,7 +3,7 @@
     <!-- Logo -->
     <div class="logo-container">
       <router-link to="/">
-        <img src="/src/assets/tripisov_logo.png" alt="Tripisov Logo" class="h-16 md:h-20" />
+        <img src="/assets/tripisov_logo.png" alt="Tripisov Logo" class="h-16 md:h-20" />
       </router-link>
     </div>
 

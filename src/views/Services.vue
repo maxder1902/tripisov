@@ -6,7 +6,7 @@
     <!-- Introducción -->
     <div class="mb-8 mb-8 text-lg content-center leading-relaxed flex justify-center">
       <img 
-        src="/src/assets/img/tecnologias-servicios.jpg" 
+        src="/assets/img/tecnologias-servicios.jpg" 
         alt="Holograma digital futurista" 
         class="w-1/4 h-auto rounded-lg shadow-lg mb-6"
       />

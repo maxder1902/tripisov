@@ -24,7 +24,7 @@ import ProjectBtn from '../components/YourProjectBtn.vue';
       </p>
 
       <div class="bg-verde-tripisov rounded-xl flex justify-center items-center p-6 w-full lg:w-auto">
-        <img class="w-40 md:w-60 lg:w-72" src="/src/assets/tripisov_logo.png" alt="Tripisov Logo"/>
+        <img class="w-40 md:w-60 lg:w-72" src="/assets/tripisov_logo.png" alt="Tripisov Logo"/>
       </div>
     </div>
   </div>
@@ -76,8 +76,8 @@ import ProjectBtn from '../components/YourProjectBtn.vue';
     <div class="text-white mx-4 md:mx-8 my-8 p-4 md:p-8 flex flex-col md:flex-row items-center md:items-start">
     <!-- Contenedor de imágenes -->
     <div class="w-full md:w-1/2 flex flex-col md:flex-row items-center md:items-start justify-center gap-4">
-      <img class="w-40 h-40 md:w-48 md:h-48 rounded-full object-cover" src="/src/assets/img/china_feliz.jpg" alt="test">
-      <img class="w-40 h-40 md:w-48 md:h-48 rounded-full object-cover" src="/src/assets/img/handshake.jpg" alt="test">
+      <img class="w-40 h-40 md:w-48 md:h-48 rounded-full object-cover" src="/assets/img/china_feliz.jpg" alt="test">
+      <img class="w-40 h-40 md:w-48 md:h-48 rounded-full object-cover" src="/assets/img/handshake.jpg" alt="test">
     </div>
 
     <!-- Contenedor de texto -->
@@ -125,12 +125,12 @@ import ProjectBtn from '../components/YourProjectBtn.vue';
 <div class="w-full lg:w-1/2 flex flex-wrap justify-center items-center gap-4 p-4">
   <img 
     class="p-2 rounded-full w-32 h-32 md:w-40 md:h-40 object-cover" 
-    src="/src/assets/img/dude_doing_things.jpg" 
+    src="/assets/img/dude_doing_things.jpg" 
     alt="Imagen Dude Doing Things"
   />
   <img 
     class="p-2 rounded-full w-32 h-32 md:w-40 md:h-40 object-cover" 
-    src="/src/assets/img/el puño pa rriba.jpg" 
+    src="/assets/img/el puño pa rriba.jpg" 
     alt="Imagen El Puño Pa Arriba"
   />
 </div>
