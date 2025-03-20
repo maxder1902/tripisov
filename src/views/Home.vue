@@ -156,35 +156,35 @@ export default {
         {
           titulo: "Desarrollo Web",
           descripcion: "Transformamos tus ideas en páginas web rápidas, seguras y atractivas.",
-          img: "/src/assets/img/coding_laptop.jpg",
+          img: "/assets/img/coding_laptop.jpg",
           alt: "imagen desarrollo web",
           link: "/desarrollo-web"
         },
         {
           titulo: "Diseño Gráfico",
           descripcion: "Creamos diseños que capturan la esencia de tu marca y comunican claramente lo que ofreces.",
-          img: "/src/assets/img/diseño grafico.jpg",
+          img: "/assets/img/diseño grafico.jpg",
           alt: "imagen diseño gráfico",
           link: "/graphic-design"
         },
         {
           titulo: "Ciberseguridad",
           descripcion: "Protegemos tus sistemas y datos sensibles frente a las amenazas cibernéticas.",
-          img: "/src/assets/img/ciberseguridad.jpg",
+          img: "/assets/img/ciberseguridad.jpg",
           alt: "imagen ciberseguridad",
           link: "/ciberseguridad"
         },
         {
           titulo: "Administración de Sistemas",
           descripcion: "Soluciones completas para la administración y soporte de servidores y redes.",
-          img: "/src/assets/img/servidores.jpg",
+          img: "/assets/img/servidores.jpg",
           alt: "imagen administración de sistemas",
           link: "/administracion-de-sistemas"
         },
         {
           titulo: "Servicios Integrados",
           descripcion: "Desde el desarrollo web hasta la ciberseguridad, te ofrecemos una solución completa.",
-          img: "/src/assets/img/circuitos.jpg",
+          img: "/assets/img/circuitos.jpg",
           alt: "imagen servicios integrados",
           link: "/servicios-integrados"
         }
