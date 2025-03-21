@@ -13,9 +13,7 @@ import ProjectBtn from '../components/YourProjectBtn.vue';
 
     <div class="flex flex-col lg:flex-row p-4 justify-center items-center lg:h-screen gap-6">
       <p class="text-sm md:text-base lg:text-lg text-justify max-w-xl">
-        Ante la falta de oportunidades laborales en IT, decidí crear TRIPISOV, una empresa cercana y accesible para ofrecer servicios de informática tanto a particulares
-        como a pequeños negocios. Desde reparar un PC hasta crear una tienda online, TRIPISOV está aquí para ayudarte con soluciones informáticas reales y adaptadas a tus 
-        necesidades. <br /><br />
+        Estoy desempleado, tengo tanto tiempo libre que hasta hice una página web. Usted haga como que esto es algo serio, por favor. <br /><br />
 
         La misión de TRIPISOV es ofrecer servicios informáticos accesibles y de calidad a personas y negocios que buscan soluciones prácticas. 
         Queremos romper con las barreras del acceso a la tecnología y convertirnos en una referencia para quienes necesitan ayuda informática sin complicaciones.
